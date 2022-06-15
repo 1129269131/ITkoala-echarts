@@ -241,7 +241,7 @@ var render = function() {
                     }
                   }
                 },
-                [_vm._v("滑块+echarts")]
+                [_vm._v("swiper+echarts")]
               )
             ],
             1
